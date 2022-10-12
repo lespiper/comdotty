@@ -1,0 +1,8 @@
+# robots.txt for https://www.comdotty.com
+
+User-agent: *
+Disallow: /asp
+Disallow: /clients
+Disallow: /res
+
+sitemap: https://www.comdotty.com/sitemap.xml
